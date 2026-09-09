@@ -20,10 +20,10 @@ Thanks for checking out my profile! ✨
   </br>
   <div align='center'>
     <a> <img height=200 align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=LuisPerossi&theme=dark" 
+        src="https://github-stats-extended.vercel.app/api?username=LuisPerossi&theme=dark" 
     /> </a>
     <a> <img height=200 align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisPerossi&theme=dark&layout=compact&langs_count=8&card_width=320"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=LuisPerossi&theme=dark&layout=compact&langs_count=8&card_width=320"
     /> </a>
   </div>
 </details>
