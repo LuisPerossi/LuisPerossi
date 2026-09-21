@@ -9,7 +9,7 @@
 Technologies and tools I have been learning:
 </br></br>
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,electron,cloudflare,sqlite,java,c,gamemakerstudio,vscode,figma,git&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,electron,express,cloudflare,java,mysql,git&perline=4)](https://skillicons.dev)
 </div>
 
 ## 
